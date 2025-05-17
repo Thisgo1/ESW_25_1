@@ -1,0 +1,6 @@
+name: feiras-env
+channels:
+  - defaults
+dependencies:
+  - python=3.12.4
+prefix: /home/parra/miniconda3/envs/feiras-env
